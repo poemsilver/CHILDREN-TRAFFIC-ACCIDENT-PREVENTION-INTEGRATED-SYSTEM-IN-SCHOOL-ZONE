@@ -26,12 +26,17 @@ For detail, please note the folder, Introduce.
 
 ### 1. App
 
+<img width="80%" alt="image" src="https://user-images.githubusercontent.com/120539836/211182093-ea1df271-2529-4670-be1f-14971e44ecc9.png">
+
 <img width="80%" alt="image" src="https://user-images.githubusercontent.com/120539836/211180674-199dbc82-66a5-4f0e-966f-487fba13bd9f.gif">
 
 
 <br>
 
 ### 2. Electronic display
+  
+<img width="80%" alt="image" src="https://user-images.githubusercontent.com/120539836/211182237-96512b1f-20fe-4ddb-a014-408ed75d7c8a.png">
+
 
 <img width="80%" alt="image" src="https://user-images.githubusercontent.com/120539836/211180697-bf1d6ee1-5a7b-4842-be9e-c29a2325a0b2.gif">
 
